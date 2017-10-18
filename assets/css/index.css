@@ -24,15 +24,18 @@ nav .navLink {
 	color: #7289da;
 }
 
+#iconPlaceholder {
+	height: 200px;
+}
 
 #midnightIcon	{
 
 	width: 200px;
 	height: 200px;
-	
+
 	border: 10px solid #7289da;
 
-	animation-duration: 5s;	
+	animation-duration: 5s;
 	animation-name: midnightIcon;
 }
 
